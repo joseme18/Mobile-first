@@ -1,0 +1,28 @@
+/* 
+1. Posicionamiento
+2. Modelo de caja (box model)
+3. tipografia (fuentes)
+4.Visuales
+5.Otros 
+*/
+:root{
+    --linearBG: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
+    --bitcoinOrange: #F7931A;
+    --softOrange: #FFE9D5;
+    --secondaryBlue: #1A9AF7;
+    --softBlue: #E7F5FF;
+    --warmBlack: #201E1C;
+    --warmBlack1: #282623;
+    --grey: #BABABA;
+    --offwhite: #FAF8F7;
+    --justWhite: #FFFFFF;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+    font-family: 'DM Sans', sans-serif;
+}
