@@ -10,6 +10,9 @@
 .main-tables-container{
     justify-content: center;
 }
+.bitcoin-img-container{
+    background-image: url("../assets/images/bitcoinbaby1.jpg");
+}
 .left-grey-arrow{
     display: none;
 }
